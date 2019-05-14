@@ -13,6 +13,6 @@ At present, documentation for these resources is on my blog.
 
 I'll also be covering model import and transfer learning.
 
-The Jupyter notebooks are based on existing examples;
+The Jupyter notebooks are simplified versions of existing examples;
 they contain details of the notebooks from which they were derived.
 
