@@ -16,3 +16,11 @@ I'll also be covering model import and transfer learning.
 The Jupyter notebooks are simplified versions of existing examples;
 they contain details of the notebooks from which they were derived.
 
+The code for setting up the Jupyter Lab as a service is adapted from the
+Jetbot project https://github.com/NVIDIA-AI-IOT/jetbot and is covered by the
+[Jetbot license](jetbot-LICENSE.md).
+
+The code for setting the password is adapted with permission from original code
+written by Pieter de Rijk - pieter [at] de-rijk [dot] com at at
+https://github.com/paderijk/jupyter-password
+
