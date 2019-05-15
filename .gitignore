@@ -140,5 +140,5 @@ fabric.properties
 .idea/httpRequests
 
 # don't store generated service file
-*/service
+*.service
 
