@@ -139,3 +139,6 @@ fabric.properties
 # Editor-based Rest Client
 .idea/httpRequests
 
+# don't store generated service file
+*/service
+
