@@ -10,7 +10,6 @@ pip3 install matplotlib                                      # used in the Tenso
 # Jupyter  notebook - lab + widgets add terminal window support
 pip3 install jupyter jupyterlab
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
-jupyter labextension install @jupyter-widgets/jupyterlab-manager
 jupyter labextension install @jupyterlab/statusbar
 # and finally, official NVIDIA TensorFlow package for the Nano
 pip3 install --extra-index-url https://developer.download.nvidia.com/compute/redist/jp/v42 tensorflow-gpu==1.13.1+nv19.4
